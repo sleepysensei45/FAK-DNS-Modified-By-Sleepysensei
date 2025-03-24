@@ -58,7 +58,7 @@ Usage
 
 重启AdGuardHome就可以了
 
-> # 如果你方便可以给我一个Star🌟吗
+> # 如果你方便请给原作者一个Star🌟，没有原作就没有这个小项目，谢谢。
 > <https://github.com/Leev1s/FAK-DNS>
 
 License
